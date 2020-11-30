@@ -3,6 +3,7 @@ html, body {
   padding: 0;
 }
 
+/*1of10 fixed postion and 2of10 set to full width */
 header {
   background-color: #333333;
   position: fixed;
@@ -14,11 +15,13 @@ nav {
   padding: 20px 0;
 }
 
+/* 3of10 change display to inline for nav list */
 nav li {
   color: #fff;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   font-size: 12px;
+  display: inline;
 }
 
 main {
