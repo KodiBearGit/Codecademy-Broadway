@@ -3,11 +3,13 @@ html, body {
   padding: 0;
 }
 
-/*1of10 fixed postion and 2of10 set to full width */
+/* 1of10 fixed postion and 2of10 set to full width */
+/* 6of10 set z-index to header is on top of main */
 header {
   background-color: #333333;
   position: fixed;
   width: 100%;
+  z-index: 10;
 }
 
 nav {
@@ -26,6 +28,7 @@ nav li {
   width: 80px;
 }
 
+/* 5of10 change main to relative */
 main {
   text-align: center;
   position: relative;
