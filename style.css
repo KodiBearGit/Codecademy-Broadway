@@ -104,11 +104,12 @@ footer p {
 }
 
 /* 8of10 change rule so elements can appear horizontally and have a defined heighth and width */
-/* 9of10  */
+/* 9of10 adjust width to 200px to allow horizontal arrangement */
 .supporting .col {
   font-family: 'Raleway', sans-serif;
   text-align: center;
   display: inline-block;
+  width: 200px;
 }
 
 .supporting img {
