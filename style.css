@@ -15,13 +15,15 @@ nav {
   padding: 20px 0;
 }
 
-/* 3of10 change display to inline for nav list */
+/* 3of10 change display to inline for nav list changed to inline-block when i realized they wanted to adjust the width*/
+/* 4of10 set width of li elements to 80px */
 nav li {
   color: #fff;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   font-size: 12px;
-  display: inline;
+  display: inline-block;
+  width: 80px;
 }
 
 main {
