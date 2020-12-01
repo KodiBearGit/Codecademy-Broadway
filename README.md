@@ -24,10 +24,10 @@ Project goal is to use properties such as display and position to improve layout
 NA
 
 ## Status
-Project is: in progress
+Project is: completed.
 
 ## Inspiration
-Codecademy JavaScript Broadway project.  I'm using GitHub here for some added practice. 
+Codecademy CSS Display and Positioning Broadway project.  I'm using GitHub here for some added practice.
 
 ## Contact
 Created by KodiBearGit

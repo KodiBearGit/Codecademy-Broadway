@@ -47,10 +47,15 @@ main h1 {
   text-transform: uppercase;
 }
 
+/* 10of10 challenge make footer element fixed to bottom of page regardless of scrolling this way is working it smooshed items but setting bottom to 0px works well*/
 footer {
   background-color: #333;
   color: #fff;
   padding: 30px 0;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+  bottom: 0px;
 }
 
 footer p {
